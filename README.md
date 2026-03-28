@@ -182,7 +182,7 @@
       <img src="https://via.placeholder.com/250x150.png?text=Lendario+Dash+10.1" alt="Lendário Dash">
       <h3>Dash</h3>
       <p>Nova versão 10.1! Corra, desvie e desafie seus reflexos.</p>
-      <a href="https://luancraft39.github.io/Lend-rio-Dash-Editon-9.1" class="btn" target="_blank">Jogar Versão 10.1</a>
+      <a href="https://luancraft39.github.io/Lend-rio-Dash-Editon-10.1/" class="btn" target="_blank">Jogar Versão 10.1</a>
       
       <span class="toggle" onclick="toggleVersions('dashVersions')">⬇ Mostrar Versões</span>
       <div class="versions" id="dashVersions">
